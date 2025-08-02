@@ -17,6 +17,11 @@ I'm deeply passionate about bridging the gap between engineering and intelligent
 
 I have hands-on experience across various domains—be it **anomaly detection in high-speed manufacturing**, **robotic systems development**, or **lean process optimization** using **Power BI** and **time-motion studies**.
 
+## 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saravana-magesh-s-6b1261260)
+- 💻 [GitHub](https://github.com/Sar-ava)
+- ✉️ ssathyanaray4@binghamton.edu
 ---
 
 ## 💼 Experience Snapshot
@@ -49,15 +54,6 @@ I have hands-on experience across various domains—be it **anomaly detection in
 
 > **Unmanned Plastic Cleaning Boat with Water Quality Monitoring**  
 > *Presented at the 5th National Conference on Advanced Computing and Communication Systems (NCACCS-2024), March 2024*
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saravana-magesh-s-6b1261260)
-- 💻 [GitHub](https://github.com/Sar-ava)
-- ✉️ ssathyanaray4@binghamton.edu
-- 🌐 [My Website](YOUR_WEBSITE_URL)
 
 ---
 
